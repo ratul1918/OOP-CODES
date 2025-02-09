@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0ed5310-6252-497b-966a-4c8128264ad2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../1stJava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1stJava/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1stJava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1stJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1stJava/src/main/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment-1/Assignment-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D/D.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guiintro/Guiintro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hi/Hi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inhretence/Inhretence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab-5/Lab-5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab-5/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loop/Loop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/Math.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problems/Problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Random/Random.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Switch/Switch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Th Assignment/Th Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Th Assignment/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aha/aha.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ass2/ass2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../constuctor/constuctor.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2qZrm8wPb4Zy7Ov0Ncz7sNWrhqe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0ed5310-6252-497b-966a-4c8128264ad2" name="Changes" comment="" />
+      <created>1734881096508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734881096508</updated>
+      <workItem from="1734881097600" duration="1024000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
