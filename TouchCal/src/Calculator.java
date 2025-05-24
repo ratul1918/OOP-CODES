@@ -1,3 +1,5 @@
+// Question: Write a Java Swing program to create a simple calculator GUI that supports basic arithmetic operations (addition, subtraction, multiplication, division) with clear and equals functionality.
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
