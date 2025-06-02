@@ -114,6 +114,6 @@ public class Assignment {
 
         // Test 6: Is Bangladeshi flag balanced
         BangladeshiFlag flag = new BangladeshiFlag(rectangle, circle);
-        System.out.println(flag.isBalanced()); // Expected: true
+        System.out.println(flag.isBalanced()); // Expected: true.
     }
 }
