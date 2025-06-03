@@ -34,3 +34,4 @@ public class Candidate {
 
 
 }
+// this is candidate class
