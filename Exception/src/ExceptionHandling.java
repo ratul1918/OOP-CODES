@@ -1,5 +1,6 @@
 
-// Question: Write a Java program to handle ArrayIndexOutOfBoundsException, InputMismatchException, and general exceptions when inserting a value into an array based on user input.
+// Question: Write a Java program to handle ArrayIndexOutOfBoundsException, InputMismatchException, 
+// and general exceptions when inserting a value into an array based on user input.
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
