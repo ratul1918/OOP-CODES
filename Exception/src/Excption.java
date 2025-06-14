@@ -1,5 +1,6 @@
 
-// Question: Write a Java program that demonstrates handling of FileNotFoundException and ArithmeticException using try-catch blocks, and includes a finally block.
+// Question: Write a Java program that demonstrates handling of FileNotFoundException 
+// and ArithmeticException using try-catch blocks, and includes a finally block.
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
