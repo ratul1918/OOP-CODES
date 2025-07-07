@@ -10,3 +10,5 @@ public class Ran {
         System.out.println(z);
     }
 }
+
+
