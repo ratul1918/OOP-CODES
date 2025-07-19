@@ -1,9 +1,9 @@
 public class spring {
     public void actionPerformed(ActionEvent e) {
-        // Get the current output value
+        // Get the current output value..
         int outputValue = Integer.parseInt(Output.getText());
 
-        // Get the input text and split it into operator and number
+        // Get the input text and split it into operator and number..
         String inputText = Input.getText();
         String[] parts = inputText.split(" ");
 
@@ -11,8 +11,8 @@ public class spring {
             String operator = parts[0];
             int inputValue = Integer.parseInt(parts[1]);
 
-            // Perform the operation based on the operator
-            int result = outputValue;  // Default to current output value
+            // Perform the operation based on the operator..
+            int result = outputValue;  // Default to current output value..
             switch (operator) {
                 case "+":
                     result += inputValue;
