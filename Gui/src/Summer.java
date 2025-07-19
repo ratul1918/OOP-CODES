@@ -1,9 +1,9 @@
 public class Summer {
     public void actionPerformed(ActionEvent e) {
-        // Get the current output value
+        // Get the current output value..
         int outputValue = Integer.parseInt(Output.getText());
 
-        // Get the input text and split it into operator and number
+        // Get the input text and split it into operator and number..
         String inputText = Input.getText();
         String[] parts = inputText.split(" ");
 
