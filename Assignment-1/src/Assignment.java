@@ -81,7 +81,7 @@ public class Assignment {
             this.C = C;
         }
 
-        // Check if the flag is "balanced" — i.e., circle is centered and inside the rectangle
+        // Check if the flag is "balanced" — i.e., circle is centered and inside the rectangle..
         public boolean isBalanced() {
             int rectCenterX = (R.bottomLeft.x + R.topRight.x) / 2;
             int rectCenterY = (R.bottomLeft.y + R.topRight.y) / 2;
