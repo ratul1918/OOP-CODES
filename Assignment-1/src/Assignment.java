@@ -37,7 +37,7 @@ public class Assignment {
         }
     }
 
-    // Rectangle class defined by bottom-left and top-right points
+    // Rectangle class defined by bottom-left and top-right points..
     public static class Rectangle {
         public Point bottomLeft, topRight;
 
