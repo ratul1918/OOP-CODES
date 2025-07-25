@@ -1,6 +1,6 @@
 public class Assignment {
 
-    // Point class representing a coordinate in 2D space
+    // Point class representing a coordinate in 2D space..
     public static class Point {
         public int x, y;
 
