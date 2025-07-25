@@ -62,7 +62,7 @@ public class Assignment {
                    circleBottom >= bottom && circleTop <= top;
         }
 
-        // Check if another rectangle lies completely inside this rectangle
+        // Check if another rectangle lies completely inside this rectangle..
         public boolean rectangleInsideRectangle(Rectangle R) {
             return R.bottomLeft.x >= this.bottomLeft.x &&
                    R.bottomLeft.y >= this.bottomLeft.y &&
