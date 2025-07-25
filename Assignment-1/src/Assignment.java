@@ -46,7 +46,7 @@ public class Assignment {
             this.topRight = topRight;
         }
 
-        // Check if a circle lies completely within the rectangle
+        // Check if a circle lies completely within the rectangle..
         public boolean circleInsideRectangle(Circle C) {
             double left = bottomLeft.x;
             double right = topRight.x;
