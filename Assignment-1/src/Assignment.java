@@ -15,7 +15,7 @@ public class Assignment {
         }
     }
 
-    // Circle class with center and radius
+    // Circle class with center and ..
     public static class Circle {
         public Point center;
         public double radius;
