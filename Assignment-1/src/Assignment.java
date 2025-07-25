@@ -71,7 +71,7 @@ public class Assignment {
         }
     }
 
-    // Represents a Bangladeshi flag consisting of a rectangle and a circle
+    // Represents a Bangladeshi flag consisting of a rectangle and a circle..
     public static class BangladeshiFlag {
         public Rectangle R;
         public Circle C;
