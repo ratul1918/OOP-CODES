@@ -1,4 +1,4 @@
-# Object Oriented Programming (OOP) – Course Code Collection.
+# Object Oriented Programming (OOP) – Course Code Collection
 
 This repository contains a collection of Java programs developed as part of the **Object Oriented Programming (OOP)** course at **United International University (UIU)**. These programs demonstrate core concepts and principles of OOP, using Java as the programming language.
 
