@@ -1,4 +1,4 @@
-// Assignment.
+// Assignment
 class Shape2D {
     protected int length;
     protected int width;
