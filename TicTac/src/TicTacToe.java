@@ -6,7 +6,7 @@ import javax.swing.*;
 public class TicTacToe implements ActionListener {
 
     Random random = new Random();
-    JFrame frame = new JFrame("Tic Tac Toe");
+    JFrame frame = new JFrame("Tic Tac Toe"); 
     JPanel title_panel = new JPanel();
     JPanel button_panel = new JPanel();
     JLabel textField = new JLabel();
