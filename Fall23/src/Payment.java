@@ -4,7 +4,7 @@ public abstract class Payment implements Transaction{
 
     public Payment(double amount, String currency){
         this.amount=amount;
-        this.currency=currency;
+        this.currency=currency; 
     }
 
     @Override
