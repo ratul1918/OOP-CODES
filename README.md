@@ -8,7 +8,7 @@ This repository contains a collection of Java programs developed as part of the 
 - ✅ Constructors (Default & Parameterized)
 - ✅ Method Overloading and Overriding  
 - ✅ Inheritance (Single, Multilevel, Hierarchical)  
-- ✅ Encapsulation  
+- ✅ Encapsulation   
 - ✅ Abstraction (Abstract Classes & Interfaces)  
 - ✅ Polymorphism (Compile-time and Runtime)  
 - ✅ Packages and Access Modifiers  
