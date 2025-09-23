@@ -10,7 +10,7 @@ public class concrete extends Abs implements fn2{
 
     }
 
-    @Override
+    @Override 
     public void m2() {
         System.out.println("m2");
     }
