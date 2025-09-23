@@ -1,4 +1,4 @@
-public class concrete extends Abs implements fn2{
+public class concrete extends Abs implements fn2{ 
     @Override
     public void m3() {
         System.out.println("m3");
